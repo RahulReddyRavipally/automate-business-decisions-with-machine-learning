@@ -155,7 +155,8 @@ The user inputs determines the final target class
 * **Data Analytics Code Patterns**: Enjoyed this Code Pattern? Check out our other [Data Analytics Code Patterns](https://developer.ibm.com/code/technologies/data-science/)
 * **AI and Data Code Pattern Playlist**: Bookmark our [playlist](https://www.youtube.com/playlist?list=PLzUbsvIyrNfknNewObx5N7uGZ5FKH0Fde) with all of our Code Pattern videos
 * **Watson Studio**: Master the art of data science with IBM's [Watson Studio](https://dataplatform.ibm.com/)
-
+* **Decision Tree**: Learn more about the [decision tree in Machine learning[(https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
+* **Decision Tree**: Learn more about the [ classification decision tree in Machine learning[https://medium.com/machine-learning-101/chapter-3-decision-trees-theory-e7398adac567)
 
 # Troubleshooting
 
