@@ -1,0 +1,64 @@
+Travel Type,Travel Purpose,Travel Restrictions,Billable,Estimated cost,WW Approval,Local Skills Exsit,Customer stratigic,PMR Exist,PMR severity,SalesConnect Exist,Customer sentiments,How Many people traveling,Role of Person,Visit number,Revenue Impact,Deal Closure Time,Conference Flag,Speaker,Trainimg,Number of Aud.,Is Aud. decsion maker,Recommendation
+Cust,Deal,,Y,,,,,,,,,,,,,,,,,,,Approve
+Cust,Deal,WW,N, ,Y,,,,,,,,,,,,,,,,,Approve
+Cust,Deal,WW,N,,N,,,,,,,,,,,,,,,,,Get WW Approval first
+Cust,Deal,Low,N, ,,,High,,,Y, ,2,Critical, ,High,Next Q,,,,,,Approve
+Cust,Deal,Low,N, ,,,Low,,,Y, ,1,Critical, ,High,Next Q,,,,,,Approve
+Cust,Deal,Low,N, ,,,High,,,Y, ,1,Critical, ,High,Next Q,,,,,,Approve
+Cust,Deal,Low,N, ,,,High,,,Y, ,1,Critical, ,High,Next Q,,,,,,Approve
+Cust,Deal,Low,N, ,,,High,,,Y, ,1,Critical, ,High,Next Q,,,,,,Approve
+Cust,Deal,Low,N, ,,,High,,,Y, ,1,Critical, ,High,Next Q,,,,,,Approve
+Cust,Deal,Low,N, ,,Y,Low,,,Y, ,1,Important, ,Low,Long term,,,,,,Use Local Skills
+Cust,Deal, ,N, ,,, ,,,N, , , , , , ,,,,,,get opportunity ID
+Cust,Deal,High,N,Low,,,High,,,Y,Positive,1,Critical,,High,Next Q,,,,,,Approve
+Cust,Deal,High,N,Low,,,High,,,Y,Negative,1,Critical,,High,Next Q,,,,,,Approve
+Cust,Deal,Low,N,Low,,,High,,,Y,,1,Critical,,High,Next Q,,,,,,Approve
+Cust,Deal,High,N,Low,,,Low,,,Y,Negative,2,Important,,Low,Long term,,,,,,Reject
+Cust,Deal,High,N,Low,,Y,Low,,,Y,Neutral,1,Critical,,Low,Long term,,,,,,Use Local Skills
+Cust,Deal,High,N,Low,,N,Low,,,Y,Neutral,1,important,,Low,Long term,,,,,,Reject
+Cust,Deal,High,N,Low,,N,Low,,,Y,Negative,2,important,,low,Next 9 months,,,,,,Approve
+Cust,Deal,Low,N,,,N,Low,,,Y,Negative,2,important,,low,Next 9 months,,,,,,Approve
+Cust,Deal,Low,N,,,,Low,,,Y,Positive,3,Important,,Low,Next 9 months,,,,,,Reject
+Cust,Deal,Low,N,,,,Low,,,Y,Negative,1,Critical,,High,Next 9 months,,,,,,Approve
+Cust,Deal,High,N,High, ,Y,Low,,,Y,Positive,2,Important,,Low,Next 6 months,,,,,,Use Local Skills
+Cust,Deal,High,N,High,,Y,High,,,Y,Positive,3,Important,,Low,Next 9 months,,,,,,Use Local Skills
+Cust,Deal,High,N,High,,N,High,,,Y,,1,Critical,,Low,Next 6 months,,,,,,Approve
+Cust,Deal,High,N,High,,N,High,,,Y,,1,critical,,low,Next 6 months,,,,,,Approve
+Cust,Deal,High,N,Low,,,Low,,,Y,,1,Critical,,High,Next Q,,,,,,Approve
+Cust,Deal,High,N,Low,,,Low,,,Y,,1,Critical,,High,Next Q,,,,,,Approve
+Cust,Deal,WW,N,High,,N,Low,,,Y,Negative,1,Critical,,Low,Next 6 months,,,,,,Get WW Approval first
+Cust,Deal,WW,N,High,,N,Low,,,Y,Negative,1,Critical,,Low,Next 6 months,,,,,,Approve
+Cust,Deal,Low,N,High,,N,Low,,,Y,,1,Important,,High,Next Q,,,,,,Approve
+Cust,Deal,Low,N,High,,N,Low,,,Y,,1,Important,,High,Next 9 months,,,,,,Postpone
+Cust,Deal,Low,N,High,,N,Low,,,Y,,1,Important,,Low,Next 6 months,,,,,,Postpone
+Cust,Deal,Low,N,High,,N,Low,,,Y,,1,Important,,Low,Next Q,,,,,,Reject
+Cust,PMR,Low,N,,, ,,Y,1,,,1,critical,,,,,,,,,Approve
+Cust,PMR,Low,N,,,,,N,,,,1,critical,,,,,,,,,Get PMR id
+Cust,PMR,Low,N,,,,High,Y,2,, ,1,critical,,,,,,,,,Approve
+Cust,PMR,Low,N,High,,Y,Low,Y,2,,,1,critical,,,,,,,,,Use local skills
+Cust,PMR,Low,N,,,,,Y,3,,,1,critical,,,,,,,,,Reject
+Cust,PMR,Low,N,Low,,N,Low,y,2,,,1,critical,,,,,,,,,Approve
+Cust,PMR,High,N,Low,,,High,Y,1,,Negative,1,critical,,High,Next Q,,,,,,Approve
+Cust,PMR,High,N,High,,,High,Y,1,,Negative,1,critical,,Low,Next Q,,,,,,Reduce Cost
+Cust,PMR,High,N,,,,Low,Y,1,, ,1,critical,,,,,,,,,Reject
+Cust,PMR,High,N,Low,,,High,Y,2,,Neutral,1,critical,,High,Next Q,,,,,,Approve
+Cust,PMR,Low,N,High,,,High,Y,3,,,2,Important,,,,,,,,,Reduce Cost
+Cust,PMR,High,N,High,,,High,Y,3,,,2,Important,,High,Long term,,,,,,Reduce Cost
+Cust,PMR,Low,N,High,,,High,Y,3,,,2,Important,,,,,,,,,Reduce Cost
+Cust,PMR,,Y,,,,,,,,,,,,,,,,,,,Approve
+Non_cust,Conf,,Y,,,,,,,,,,,,,,,,,,,Approve
+Non_cust,Training,,Y,,,,,,,,,,,,,,,,,,,Approve
+Non_cust,Conf,Low,,High,,,,,,,,,,,,,Repute,Y,,Large,Y,Approve
+Non_cust,Conf,Low,,Low,,,,,,,,,,,,,Repute,Y,,Latge,Y,Approve
+Non_cust,Conf,Low,,High,,,,,,,,,,,,,No,N,, , ,Reject
+Non_cust,Conf,Low,,High,,,,,,,,,,,,,No,N,, , ,Reject
+Non_cust,Conf,High,,Low,,,,,,,,,,,,,repute,Y,,Large,Y,Approve
+Non_cust,Conf,High,,High,,,,,,,,,,,,,Repute,N,, ,,Reject
+Non_cust,Conf,High,,Low,,,,,,,,,,,,,No,,,,,Reject
+Non_cust,Conf,High,,Low,,,,,,,,,,,,,No,,,,,Reject
+Non_cust,Conf,Low,,Low,,,,,,,,,,,,,Repute,Y,,Small,Y,Approve
+Non_cust,Conf,High,,Low,,,,,,,,,,,,,Repute,N,,Small,N,Reject
+Non_cust,Training,High,,,,,,,,,,,,,,,,,Y,,,Reject
+Non_cust,Training,Low,,,,,,,,,,,,,,,,,Y,,,Approve
+Non_cust,Training,High,,,,,,,,,,,,,,,,,N,,,Reject
+Non_cust,Training,Low,,,,,,,,,,,,,,,,,N,,,Reject
