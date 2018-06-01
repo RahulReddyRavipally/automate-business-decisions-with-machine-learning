@@ -1,4 +1,5 @@
 #  Automate the Decision-Making process using Machine learning with Minimal Manual Intervention
+> Data Science Experience is now Watson Studio. Although some images in this code pattern may show the service as Data Science Experience, the steps and processes will still work.
 
 Decision-making is regarded as the cognitive process resulting in the selection of a belief or a course of action among several alternative possibilities. Every decision-making process produces a final choice or a recommendation.
 
@@ -148,3 +149,18 @@ The user inputs determines the final target class
 
 ![](doc/source/images/ans.png)
 
+
+# Learn more
+
+* **Data Analytics Code Patterns**: Enjoyed this Code Pattern? Check out our other [Data Analytics Code Patterns](https://developer.ibm.com/code/technologies/data-science/)
+* **AI and Data Code Pattern Playlist**: Bookmark our [playlist](https://www.youtube.com/playlist?list=PLzUbsvIyrNfknNewObx5N7uGZ5FKH0Fde) with all of our Code Pattern videos
+* **Watson Studio**: Master the art of data science with IBM's [Watson Studio](https://dataplatform.ibm.com/)
+
+
+# Troubleshooting
+
+[See DEBUGGING.md.](DEBUGGING.md)
+
+# License
+
+[Apache 2.0](LICENSE)
